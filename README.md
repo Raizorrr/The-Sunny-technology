@@ -1,2 +1,1 @@
-# The-Sunny-technology
-Proyecto de grado
+Ejercicios Java
